@@ -35,3 +35,7 @@ The goal of this project is to extract, transform, and analyze structured cricke
 •	Web Application     : Streamlit
 
 •	Development Tools   : VS Code, Jupyter Notebook
+
+## Power BI Dashboard
+
+ - [Click here to view the Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE2YmM0YjYtNTk4Mi00Yjk3LWI0ZGItZjdkM2ViOWMxZDI1IiwidCI6ImNiNmMxMjcwLWVjNmItNDI1Mi1iNzcwLWFkMDQ1NDQxOTgzZCJ9)
