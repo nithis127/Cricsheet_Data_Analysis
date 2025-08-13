@@ -39,3 +39,9 @@ The goal of this project is to extract, transform, and analyze structured cricke
 ## Power BI Dashboard
 
  - [Click here to view the Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE2YmM0YjYtNTk4Mi00Yjk3LWI0ZGItZjdkM2ViOWMxZDI1IiwidCI6ImNiNmMxMjcwLWVjNmItNDI1Mi1iNzcwLWFkMDQ1NDQxOTgzZCJ9)
+
+## Streamlit Dashboard Screenshots
+
+![image alt](https://github.com/nithis127/Cricsheet_Data_Analysis/blob/aab4ec7019f66f65012e84975a3ce4f957ad6741/streamlit_dashboard_ss1.png)
+
+![image alt](https://github.com/nithis127/Cricsheet_Data_Analysis/blob/aab4ec7019f66f65012e84975a3ce4f957ad6741/streamlit_dashboard_ss2.png)
