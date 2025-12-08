@@ -44,11 +44,11 @@ The goal of this project is to extract, transform, and analyze structured cricke
 
 | HOME | IPL | ODI |
 |--------|--------|--------|
-| <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss1_home.png" width="200"/> | <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss2_ipl.png" width="200"/> | <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss3_odi.png" width="200"/> |
+| <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss1_home.png" width="300"/> | <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss2_ipl.png" width="300"/> | <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss3_odi.png" width="300"/> |
 
 | T20 | TEST |
 |--------|--------|
-| <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss4_t20.png" width="200"/> | <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss5_test.png" width="200"/> |
+| <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss4_t20.png" width="300"/> | <img src="https://github.com/nithis127/Cricsheet_Data_Analysis/blob/d3016a20ed7f67830c83f36c8bfde0cd1c8306a1/Powerbi_ss5_test.png" width="300"/> |
 
 ## Streamlit Dashboard Screenshots
 
