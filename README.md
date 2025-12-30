@@ -48,7 +48,8 @@ Download and parse cricket match data in JSON format from Cricsheet.
 
 ## Streamlit Dashboard Screenshots
 
-![image alt](screenshots/streamlit_ss1.png)
-![image alt](screenshots/streamlit_ss2.png)
+![screenshot1](screenshots/streamlit_ss1.png)
+
+![screenshot2](screenshots/streamlit_ss2.png)
 
 ---
