@@ -30,6 +30,14 @@ Download and parse cricket match data in JSON format from Cricsheet.
 
 ---
 
+## Streamlit Dashboard Screenshots
+
+![screenshot1](screenshots/streamlit_ss1.png)
+
+![screenshot2](screenshots/streamlit_ss2.png)
+
+---
+
 ## Power BI Dashboard
 
 - [Click here to view the Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmYzdjMjYtYWIyNi00M2MxLWE4OTgtODA1ODNjNzRiNzllIiwidCI6ImNiNmMxMjcwLWVjNmItNDI1Mi1iNzcwLWFkMDQ1NDQxOTgzZCJ9)
@@ -43,13 +51,5 @@ Download and parse cricket match data in JSON format from Cricsheet.
 | T20 | TEST |
 |--------|--------|
 | <img src="screenshots/Powerbi_t20.png" width="300"/> | <img src="screenshots/Powerbi_test.png" width="300"/> |
-
----
-
-## Streamlit Dashboard Screenshots
-
-![screenshot1](screenshots/streamlit_ss1.png)
-
-![screenshot2](screenshots/streamlit_ss2.png)
 
 ---
