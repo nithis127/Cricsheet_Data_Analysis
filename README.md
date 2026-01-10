@@ -58,3 +58,5 @@ This project builds a **data pipeline** that converts JSON files into **SQL tabl
 | <img src="screenshots/Powerbi_t20.png" width="300"/> | <img src="screenshots/Powerbi_test.png" width="300"/> |
 
 ---
+
+⭐ If you found this project useful, feel free to star the repository!
